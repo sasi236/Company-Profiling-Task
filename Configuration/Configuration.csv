@@ -1,0 +1,2 @@
+input_file,output_file,output_chart_dir,batch_size,api_delay,API_BASE_URL,API_KEY
+C:\Users\kumar\Downloads\Company.csv,C:\Users\kumar\Downloads\enriched_companies_output.csv,C:\Users\kumar\Downloads\charts,30,0.3,https://api.company-information.service.gov.uk/search/companies,f6dd301c-46d0-4f68-8c58-bcebe46c7fc1
